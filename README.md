@@ -1,19 +1,25 @@
-### Hi there 👋
+### Hi, I'm Carlos Henrique 👋
 
-<!--
-**Henrique781/Henrique781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
+  :brain: I am currently studying Web Development at Trybe  
+  🌱 I’m currently learning back end  
+  💬 Ask me about JavaScript, HTML5, React, Redux, ContextAPI, ...  
+  📫 How to reach me: carlos.henrique248@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming languages, frameworks and databases:  
+
+- JavaScript  
+- HTML  
+- CSS  
+- React  
+- Redux  
+- ContextAPI  
+- Jest
+- Node.js  
+- MySQL  
+
+### Links:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-da-silva-souza/)
 
