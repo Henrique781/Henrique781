@@ -1,11 +1,10 @@
-### Hi, I'm Carlos Henrique 👋
+### Olá, meu nome é Carlos Henrique 👋
 
-### About me:
+### Sobre mim:
 
-  :brain: I am currently studying Web Development at Trybe  
-  🌱 I’m currently learning back end  
-  💬 Ask me about JavaScript, HTML5, React, Redux, ContextAPI, ...  
-  📫 How to reach me: carlos.henrique248@gmail.com  
+  :brain: Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
+  💬 Ferramentas estudadas: JavaScript, HTML, CSS, Jest, React, React Test Library, Redux, ContextAPI, NodeJs, Docker, MySQL, Sequelize MongoDB,...  
+  📫 Contato: carlos.henrique248@gmail.com
 
 ### Programming languages, frameworks and databases:  
 
