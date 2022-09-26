@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-  :brain: Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
+  :brain: Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/).  
   💬 Ferramentas estudadas: JavaScript, HTML, CSS, Jest, React, React Test Library, Redux, ContextAPI, NodeJs, Docker, MySQL, Sequelize MongoDB,...  
   📫 Contato: carlos.henrique248@gmail.com
 
